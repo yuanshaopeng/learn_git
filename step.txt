@@ -1,0 +1,19 @@
+1、git clone 克隆远程仓库到本地   /第二天+  git pull
+
+2、编写代码
+
+3、下班前
+    git status
+
+    git add file
+
+    git commit -m "xx"
+
+    git push
+
+    解决推送冲突
+    git pull  拉取
+
+    git status 
+
+    git push
